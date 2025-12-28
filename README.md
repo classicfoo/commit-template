@@ -1,2 +1,2 @@
-# commit-template
-a template repo based on the commit project.
+# commit
+a social webapp to announce your commitments
